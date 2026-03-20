@@ -1,22 +1,15 @@
 {
+  "name": "صيانتي V2.0",
   "short_name": "صيانتي",
-  "name": "صيانتي V2.0 - تقارير الصيانة",
+  "start_url": "رابط_تطبيقك_هنا",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
   "icons": [
     {
-      "src": "https://hostvip45.github.io/syanti/icon.png",
+      "src": "icon.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "https://hostvip45.github.io/syanti/icon.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
+      "type": "image/png"
     }
-  ],
-  "start_url": "./index.html",
-  "display": "standalone",
-  "theme_color": "#1e3a8a",
-  "background_color": "#ffffff"
+  ]
 }
