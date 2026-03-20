@@ -2,20 +2,22 @@
   "name": "صيانتي Pro V2.0",
   "short_name": "صيانتي",
   "description": "نظام إدارة وصيانة السيارات المتقدم - عائلة أبو مصعب",
-  "start_url": "https://script.google.com/macros/s/AKfycbyfE9_YOUR_SCRIPT_ID_HERE/exec",
+  "start_url": "https://script.google.com/macros/s/AKfycbyMrRZ0c7K7HIYAy5X3PMvaj1ctjfE6z0pMj14dVe8oHGVv-w__PU_5doevb4_NgLNQJg/exec",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#1e3a8a",
+  "dir": "rtl",
+  "lang": "ar",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "https://hostvip45.github.io/syanti/icon.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon.png",
+      "src": "https://hostvip45.github.io/syanti/icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
