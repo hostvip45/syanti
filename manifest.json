@@ -1,15 +1,24 @@
 {
-  "name": "صيانتي V2.0",
+  "name": "صيانتي Pro V2.0",
   "short_name": "صيانتي",
-  "start_url": "رابط_تطبيقك_هنا",
+  "description": "نظام إدارة وصيانة السيارات المتقدم - عائلة أبو مصعب",
+  "start_url": "https://script.google.com/macros/s/AKfycbyfE9_YOUR_SCRIPT_ID_HERE/exec",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#1e3a8a",
   "icons": [
     {
       "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
